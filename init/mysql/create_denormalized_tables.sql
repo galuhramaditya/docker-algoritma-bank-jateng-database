@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS denormalized;
 
 USE denormalized;
 
-CREATE TABLE EXISTS orders (
+CREATE TABLE IF NOT EXISTS orders (
     order_id INT,
     order_date DATE,
     customer_id INT,
