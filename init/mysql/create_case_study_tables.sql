@@ -1,4 +1,3 @@
--- Active: 1720035692713@@localhost@3306@algoritma
 /*
   Name: MySQL Sample Database classicmodels
   Link: http://www.mysqltutorial.org/mysql-sample-database.aspx
